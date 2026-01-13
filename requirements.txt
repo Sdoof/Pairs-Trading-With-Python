@@ -10,7 +10,7 @@ decorator==5.1.1
 docopt==0.6.2
 entrypoints==0.4
 executing==1.0.0
-fonttools==4.37.3
+fonttools==4.61.0
 idna==3.4
 ipykernel==6.15.3
 ipython==8.5.0
